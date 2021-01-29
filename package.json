@@ -1,5 +1,5 @@
 {
-  "name": "http-errors",
+  "name": "http-errors-view",
   "version": "0.0.1",
   "description": "give http error details",
   "main": "index.js",

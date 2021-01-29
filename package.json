@@ -1,0 +1,23 @@
+{
+  "name": "http-errors",
+  "version": "0.0.1",
+  "description": "give http error details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ideaaaal/http-errors.git"
+  },
+  "keywords": [
+    "module",
+    "error",
+    "errors",
+    "http",
+    "http error",
+    "http errors"
+  ],
+  "author": "ideaaaal",
+  "license": "ISC"
+}
